@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Traffice</string>
+    <string name="login_title">用户登录</string>
+    <string name="login_net_setting">网络设置</string>
+    <string name="checkbox_r">记住我</string>
+    <string name="button_ok">登   录</string>
+    <string name="url_ip">IP地址：</string>
+    <string name="url_port">端口号：</string>
+    <string name="button_save">保存</string>
+    <string name="button_cancel">取消</string>
+    <string name="recharge_title">账户充值</string>
+</resources>
